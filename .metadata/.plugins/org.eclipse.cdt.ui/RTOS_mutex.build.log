@@ -1,0 +1,10 @@
+18:20:13 **** Build of configuration Debug for project RTOS_mutex ****
+make -j8 all 
+arm-none-eabi-size  RTOS_mutex.elf 
+   text	   data	    bss	    dec	    hex	filename
+  28176	     28	 125036	 153240	  25698	RTOS_mutex.elf
+Finished building: default.size.stdout
+ 
+
+18:20:14 Build Finished. 0 errors, 0 warnings. (took 306ms)
+

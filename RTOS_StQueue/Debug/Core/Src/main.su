@@ -1,0 +1,9 @@
+../Core/Src/main.c:83:5:main	56	static
+../Core/Src/main.c:138:6:SystemClock_Config	96	static
+../Core/Src/main.c:183:13:MX_LPUART1_UART_Init	8	static
+../Core/Src/main.c:231:13:MX_GPIO_Init	56	static
+../Core/Src/main.c:315:6:Sender_HPT_Task	24	static
+../Core/Src/main.c:333:6:Sender_LPT_Task	24	static
+../Core/Src/main.c:352:6:Receiver_Task	40	static
+../Core/Src/main.c:381:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:398:6:Error_Handler	4	static,ignoring_inline_asm
