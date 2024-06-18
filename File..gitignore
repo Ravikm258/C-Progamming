@@ -1,0 +1,19 @@
+echo "# STM32CubeIDE specific files
+.settings/
+.project
+.cproject
+.mxproject
+.mxlaunch
+
+# Build artifacts
+/Debug/
+/Release/
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+
+# Temporary files
+*.tmp
+*.bak" > .gitignore
